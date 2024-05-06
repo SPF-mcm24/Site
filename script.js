@@ -1,6 +1,6 @@
 function atualizarContador() {
     const agora = new Date();
-    const dataEspecifica = new Date(2024, 4, 6, 13, 20, 0);
+    const dataEspecifica = new Date(2024, 4, 10, 13, 20, 0);
 
     const diferenca = dataEspecifica - agora;
 
